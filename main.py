@@ -1,5 +1,5 @@
 
-from Classes.Persona import Persona
+from POO.Persona import Persona
 
 def print_hi(name):
     print(f'Hi, {name}')
